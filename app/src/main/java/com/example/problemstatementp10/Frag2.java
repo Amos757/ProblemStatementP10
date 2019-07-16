@@ -73,7 +73,7 @@ public class Frag2 extends Fragment {
         buttonColor.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                View.Back;
+                View.
             }
         });
 
